@@ -1,0 +1,12 @@
+C:\Users\The Bitchen Machine\Desktop\GC NET C#\PreWork\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\The Bitchen Machine\Desktop\GC NET C#\PreWork\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\The Bitchen Machine\Desktop\GC NET C#\PreWork\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\The Bitchen Machine\Desktop\GC NET C#\PreWork\ConsoleApp1\ConsoleApp1\obj\Debug\NumberFlip.csprojResolveAssemblyReference.cache
+C:\Users\The Bitchen Machine\Desktop\GC NET C#\PreWork\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\The Bitchen Machine\Desktop\GC NET C#\PreWork\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\The Bitchen Machine\Documents\GitHub\NumberFlip\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\The Bitchen Machine\Documents\GitHub\NumberFlip\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\The Bitchen Machine\Documents\GitHub\NumberFlip\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\The Bitchen Machine\Documents\GitHub\NumberFlip\ConsoleApp1\obj\Debug\NumberFlip.csprojResolveAssemblyReference.cache
+C:\Users\The Bitchen Machine\Documents\GitHub\NumberFlip\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\The Bitchen Machine\Documents\GitHub\NumberFlip\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
